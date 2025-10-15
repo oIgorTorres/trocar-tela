@@ -54,7 +54,7 @@ O layout principal (`activity_main.xml`) contém:
 
 ## 🧰 Estrutura XML - tela2
 
-O layout principal (`activity_main.xml`) contém:
+O layout principal (`tela2.xml`) contém:
 - 1 textView (para indicar que o usuário está na tela2)
 - 1 botão (para ir para a tela principal)
 
