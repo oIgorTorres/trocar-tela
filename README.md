@@ -60,6 +60,23 @@ O layout principal (`tela2.xml`) contém:
 
 ---
 
+## 📸 Demonstração 
+
+### Tela principal
+
+![Figura 1:](/img/img.png)
+
+---
+
+## 📸 Demonstração 2
+
+### Tela 2
+
+![Figura 1:](/img/img2.png)
+
+---
+
+
 ## 👩‍💻 Autor / Equipe
 
 **Nome:** *Igor Torres Dias*  
